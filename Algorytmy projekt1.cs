@@ -2,13 +2,14 @@
 using System.Diagnostics;
 using System.IO;
 
-namespace Projekt1_Algorytmy
+namespace Projekt1_Algorytmy 
 {
     class Program
     {
         static void Main(string[] args)
         {
-
+            ///Wykonał Dominik Karmoliński i Piotr Karolak
+ 
 
             {
                 Console.WriteLine($"{DateTime.Now} - Czas rozpoczęcia pomiaru - Wyszukiwanie proste - operacje");
